@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Disha042
 - 👀 I’m interested in designing
-- 🌱 I’m currently learning web deb
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning full stack web development
+- 💞️
 - 📫 How to reach me dishaagarwal042@gmail.com
 
 <!---
